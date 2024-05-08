@@ -8,7 +8,7 @@ url = "https://api2.eu.prismacloud.io/login"
 payload = {
     "username": "c7bcb7fb-2ba8-49f3-b052-c7bef3ad11b3",
     "prismaId": "1037390876936064000",
-    "password": "MyuulH7pPKdm3idJcdQoWu6OOZU="
+    "password": "aaa"
 }
 
 # Nagłówki
